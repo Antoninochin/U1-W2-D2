@@ -54,7 +54,7 @@ header nav li a::before {
 .text-image{
     display: inline;
     float: left;
-    margin-right: 10px;
+    margin-right: 20px;
 }
 .text-p{
     display: inline;
@@ -64,8 +64,8 @@ header nav li a::before {
     margin-bottom: 0.8em ;
 }
 .double-border{
-    border:15px solid blue;
-    border-style: double;
+    border:5px solid blue;
+    outline: 6px solid purple;
     padding: 3px;
 }
 #margin-top{
@@ -84,12 +84,12 @@ header nav li a::before {
 }
 .back-top{ 
     position: fixed;
-    right: 13px;
-    width: 65px;
-    bottom:10px;
-    background-color: grey;
-    color: white;
-    padding:2px;
+    right: 5px;
+    bottom:5px;
+    background-color: white;
+    color: violet;
+    font-size: 1.8em;
+    padding:0px;
 }
 /* MAIN */
 main {
