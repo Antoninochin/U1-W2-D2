@@ -24,6 +24,7 @@ header {
     padding: 2em 1.5em;
     position:fixed;
     top: 0px;
+    z-index: 2;
 }
 header div img {
     margin-bottom: 20px;
@@ -113,6 +114,7 @@ section h2 {
     text-transform: uppercase;
     margin-bottom: 1em;
     position: absolute;
+    z-index: 1;
 }
 
 /* ELEMENTI NEL MAIN - ARTICLE */
